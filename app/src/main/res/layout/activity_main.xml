@@ -65,6 +65,15 @@
         android:textStyle="bold"
         tools:text="42" />
 
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:src="@drawable/tea_time_1773531_960_720"
+
+        />
+
+
 
 
 
